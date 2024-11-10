@@ -10,11 +10,12 @@ I'm all about **automation** and **cloud efficiency**, but I believe in creating
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 8px; display: inline-block;">
   <h4>Cloud & DevOps</h4>
-  <p><b>☁️ Cloud Platforms</b>: **Azure**, **Azure DevOps**</p>
-  <p><b>🔧 Infrastructure as Code</b>: **Terraform**, **ARM Templates**</p>
-  <p><b>⚙️ Scripting & Automation</b>: **PowerShell**, **Git**</p>
-  <p><b>🔄 CI/CD Pipelines</b>: **Azure Pipelines**, **Octopus Deploy**</p>
+  <p><b>☁️ Cloud Platforms</b>: Azure</p>
+  <p><b>🔧 Infrastructure as Code</b>: Terraform, ARM Templates</p>
+  <p><b>⚙️ Scripting </b>: PowerShell, python</p>
+  <p><b>🔄 CI/CD </b>: Azure Pipelines, Octopus Deploy</p>
   <p><b>🛠️ ITSM Tools</b>: **ServiceNow**</p>
+  <p><b>🔄 VCS</b>: Git</p>
 </div>
 
 ---
