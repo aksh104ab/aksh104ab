@@ -1,6 +1,6 @@
 ## 👋 **Hello! I'm Akshay** – DevOps Engineer 
 
-Welcome to my GitHub! I'm a passionate **DevOps Engineer** with hands-on experience in automating cloud infrastructure, CI/CD pipelines, and scaling software delivery. 
+I'm a passionate **DevOps Engineer** with hands-on experience in automating cloud infrastructure, CI/CD pipelines, and scaling software delivery. 
 
 ---
 
