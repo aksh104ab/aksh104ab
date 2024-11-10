@@ -14,7 +14,7 @@ I'm all about **automation** and **cloud efficiency**, but I believe in creating
   <p><b>🔧 Infrastructure as Code</b>: Terraform, ARM Templates</p>
   <p><b>⚙️ Scripting </b>: PowerShell, python</p>
   <p><b>🔄 CI/CD </b>: Azure Pipelines, Octopus Deploy</p>
-  <p><b>🛠️ ITSM Tools</b>: **ServiceNow**</p>
+  <p><b>🛠️ ITSM Tools</b>: ServiceNow</p>
   <p><b>🔄 VCS</b>: Git</p>
 </div>
 
@@ -40,7 +40,7 @@ https://www.geeksforgeeks.org/user/akshaybotre203/contributions/
 
 ### 🌍 **Let’s Connect!**
 
-I’m always open to new opportunities, discussions, or collaborations. Feel free to reach out to me if you want to chat about cloud, DevOps, or content creation.
+I’m always open to new opportunities, discussions, or collaborations. Feel free to reach out to me...
 
 - **LinkedIn**: https://www.linkedin.com/in/akshaybotre/  
 - **Email**: akshaybotre203@gmail.com  
