@@ -35,7 +35,7 @@ I love sharing my knowledge through writing! Here are some articles I’ve writt
 
 ### 🌍 **Let’s Connect!**
 
-I’m always open to new opportunities, discussions, or collaborations. Feel free to reach out to me if you’d like to chat about **DevOps**, **cloud technologies**, or **content creation**!
+I’m always open to new opportunities, discussions, or collaborations. Feel free to reach out to me...
 
 - **LinkedIn**: [Akshay Botre](https://www.linkedin.com/in/akshaybotre/)  
 - **Email**: [akshaybotre203@gmail.com](mailto:akshaybotre203@gmail.com)
