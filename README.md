@@ -54,5 +54,5 @@ I’m always open to new opportunities, discussions, or collaborations. Feel fre
 
 ---
 
-### 🎉 **Thanks for stopping by!**  
+##### 🎉 **Thanks for stopping by!**  
 Feel free to explore my repositories, read my articles, and reach out if you’d like to collaborate. 😊  
