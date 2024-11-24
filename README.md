@@ -8,12 +8,12 @@ A **Tech enthusiast** with a passion for exploring and mastering new technologie
 
 I'm all about **automation** and **cloud efficiency**, but I believe in creating simple, maintainable, and scalable solutions. 
 
-- **Cloud Platforms**: Azure  
-- **Infrastructure as Code**: Terraform, ARM Templates  
-- **Scripting**: PowerShell, Python  
-- **CI/CD**: Azure Pipelines, Octopus Deploy  
-- **ITSM Tools**: ServiceNow  
-- **Version Control**: Git
+- **Cloud Platforms**: ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=ffffff)  
+- **Infrastructure as Code**: ![Terraform](https://img.shields.io/badge/-Terraform-7E34C5?style=flat&logo=terraform&logoColor=ffffff), ![ARM Templates](https://img.shields.io/badge/-ARM%20Templates-D92E3E?style=flat&logo=microsoft&logoColor=ffffff)  
+- **Scripting**: ![PowerShell](https://img.shields.io/badge/-PowerShell-2C92C0?style=flat&logo=powershell&logoColor=ffffff), ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)  
+- **CI/CD**: ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-00A1D6?style=flat&logo=azure-pipelines&logoColor=ffffff), ![Octopus Deploy](https://img.shields.io/badge/-Octopus%20Deploy-27C6DC?style=flat&logo=octopus-deploy&logoColor=ffffff)  
+- **ITSM Tools**: ![ServiceNow](https://img.shields.io/badge/-ServiceNow-2A3C55?style=flat&logo=servicenow&logoColor=ffffff)  
+- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 
 ---
 
@@ -46,6 +46,19 @@ I’m always open to new opportunities, discussions, or collaborations. Feel fre
 
 - 💻 I love **automating** and making everything work smoothly—whether it’s **code** or my morning coffee routine.  
 - ✍️ When I’m not coding, you’ll find me writing articles or learning new tools and technologies.  
+
+---
+
+### 📂 **Projects**
+
+Here’s a collection of the projects I’ve worked on, showcasing my skills and learning journey:
+
+| Project Name       | Description                                                                 | Tech Stack                                        | Link  |
+|--------------------|-----------------------------------------------------------------------------|--------------------------------------------------|-------|
+| **Project 1**      | A cloud automation tool for provisioning resources in Azure.                 | ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=ffffff), ![Terraform](https://img.shields.io/badge/-Terraform-7E34C5?style=flat&logo=terraform&logoColor=ffffff) | [GitHub](#)  |
+| **Project 2**      | CI/CD pipeline setup for automated deployments using Azure Pipelines.        | ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-00A1D6?style=flat&logo=azure-pipelines&logoColor=ffffff), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff) | [GitHub](#)  |
+| **Project 3**      | A Python script for automating infrastructure monitoring in the cloud.        | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff) | [GitHub](#)  |
+| **Project 4**      | Multicloud network setup using Aviatrix for seamless infrastructure integration. | ![Aviatrix](https://img.shields.io/badge/-Aviatrix-1F2A4E?style=flat&logo=aviatrix&logoColor=ffffff) | [GitHub](#)  |
 
 ---
 
