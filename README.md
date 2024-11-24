@@ -21,12 +21,12 @@ I’m constantly growing and expanding my skills to stay ahead in the tech world
 
 I'm all about **automation** and **cloud efficiency**, but I believe in creating simple, maintainable, and scalable solutions. 
 
-- **Cloud Platforms**: ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=ffffff)  
-- **Infrastructure as Code**: ![Terraform](https://img.shields.io/badge/-Terraform-7E34C5?style=flat&logo=terraform&logoColor=ffffff), ![ARM Templates](https://img.shields.io/badge/-ARM%20Templates-D92E3E?style=flat&logo=microsoft&logoColor=ffffff)  
-- **Scripting**: ![PowerShell](https://img.shields.io/badge/-PowerShell-2C92C0?style=flat&logo=powershell&logoColor=ffffff), ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)  
-- **CI/CD**: ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-00A1D6?style=flat&logo=azure-pipelines&logoColor=ffffff), ![Octopus Deploy](https://img.shields.io/badge/-Octopus%20Deploy-27C6DC?style=flat&logo=octopus-deploy&logoColor=ffffff)  
-- **ITSM Tools**: ![ServiceNow](https://img.shields.io/badge/-ServiceNow-2A3C55?style=flat&logo=servicenow&logoColor=ffffff)  
-- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
+- ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=ffffff)  
+-  ![Terraform](https://img.shields.io/badge/-Terraform-7E34C5?style=flat&logo=terraform&logoColor=ffffff), ![ARM Templates](https://img.shields.io/badge/-ARM%20Templates-D92E3E?style=flat&logo=microsoft&logoColor=ffffff)  
+-  ![PowerShell](https://img.shields.io/badge/-PowerShell-2C92C0?style=flat&logo=powershell&logoColor=ffffff), ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)  
+-  ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-00A1D6?style=flat&logo=azure-pipelines&logoColor=ffffff), ![Octopus Deploy](https://img.shields.io/badge/-Octopus%20Deploy-27C6DC?style=flat&logo=octopus-deploy&logoColor=ffffff)  
+-  ![ServiceNow](https://img.shields.io/badge/-ServiceNow-2A3C55?style=flat&logo=servicenow&logoColor=ffffff)  
+-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 
 ---
 
@@ -62,11 +62,4 @@ I’m always open to new opportunities, discussions, or collaborations. Feel fre
 
 ---
 
-### 📂 **Projects**
 
-Here’s a link to my ongoing projects, displayed in a Kanban-style board for better visualization and tracking:
-
-🔗 [**My GitHub Project Board**](https://github.com/users/aksh104ab/projects/2)  
-This board showcases tasks, progress, and goals as I work through different projects, organized in a Kanban layout.
-
----
