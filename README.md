@@ -2,11 +2,13 @@
 
 A **Tech enthusiast** with a passion for exploring and mastering new technologies. With over **2+ years of IT experience**, I currently work as a **DevOps Engineer** where I focus on automating cloud infrastructure, streamlining CI/CD pipelines, and improving software delivery processes. I'm passionate about **cloud technologies**, **automation**, and **efficient workflows** that help teams deliver high-quality software with speed and reliability.
 
-#### 👨‍💻 Currently Learning : 
-I’m learning **Azure DevOps** to enhance my skills in managing and automating DevOps workflows.  
-You can view my **learning progress** and future learning plans on my project board:
+##### 👨‍💻 **Currently Learning:**
 
-[**View My Learning Progress**](https://github.com/users/aksh104ab/projects/2)
+I’m learning **Azure DevOps** to enhance my skills in managing and automating DevOps workflows.  
+
+You can view my *learning progress* and future learning plans on my project board:
+[![View-My-Learning](https://img.shields.io/badge/View%20My%20Learning%20Progress-0A0A0A?style=flat&logo=github&logoColor=ffffff)](https://github.com/users/aksh104ab/projects/2)
+
 
 ---
 
