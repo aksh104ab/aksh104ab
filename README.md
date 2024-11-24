@@ -36,7 +36,7 @@ A **Tech enthusiast** with a passion for exploring and mastering new technologie
 
 #### 📚 Articles & Blog Posts : 
 
-I love sharing my knowledge through writing! Here are some articles I’ve written during my internship with [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-183153?style=flat&logo=geeksforgeeks&logoColor=ffffff)]:  
+I love sharing my knowledge through writing! Here are some articles I’ve written during my internship with ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-183153?style=flat&logo=geeksforgeeks&logoColor=ffffff)  
 🔗 [Akshay's Articles on GeeksforGeeks](https://www.geeksforgeeks.org/user/akshaybotre203/contributions/)
 
 ---
