@@ -51,14 +51,9 @@ I’m always open to new opportunities, discussions, or collaborations. Feel fre
 
 ### 📂 **Projects**
 
-Here’s a collection of the projects I’ve worked on, showcasing my skills and learning journey:
+Here’s a link to my ongoing projects, displayed in a Kanban-style board for better visualization and tracking:
 
-| Project Name       | Description                                                                 | Tech Stack                                        | Link  |
-|--------------------|-----------------------------------------------------------------------------|--------------------------------------------------|-------|
-| **Project 1**      | A cloud automation tool for provisioning resources in Azure.                 | ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=ffffff), ![Terraform](https://img.shields.io/badge/-Terraform-7E34C5?style=flat&logo=terraform&logoColor=ffffff) | [GitHub](#)  |
-| **Project 2**      | CI/CD pipeline setup for automated deployments using Azure Pipelines.        | ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-00A1D6?style=flat&logo=azure-pipelines&logoColor=ffffff), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff) | [GitHub](#)  |
-| **Project 3**      | A Python script for automating infrastructure monitoring in the cloud.        | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff) | [GitHub](#)  |
-| **Project 4**      | Multicloud network setup using Aviatrix for seamless infrastructure integration. | ![Aviatrix](https://img.shields.io/badge/-Aviatrix-1F2A4E?style=flat&logo=aviatrix&logoColor=ffffff) | [GitHub](#)  |
+🔗 [**My GitHub Project Board**](https://github.com/users/aksh104ab/projects/2)  
+This board showcases tasks, progress, and goals as I work through different projects, organized in a Kanban layout.
 
 ---
-
