@@ -20,9 +20,17 @@ A **Tech enthusiast** with a passion for exploring and mastering new technologie
 ### 📜 **My Certifications**
 
 - 🏅 **HashiCorp Certified**: Terraform Associate  
+  ![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7E34C5?style=flat&logo=terraform&logoColor=ffffff)
+  
 - 🎓 **Microsoft Certified**: Data Scientist Associate  
+  ![Microsoft Data Scientist Associate](https://img.shields.io/badge/Microsoft-Data%20Scientist%20Associate-0078D4?style=flat&logo=microsoft&logoColor=ffffff)
+
 - 🎓 **Aviatrix Certified**: Multicloud Network Associate  
-- 🎓 **DataCamp Certified**: SQL Associate
+  ![Aviatrix Multicloud Network Associate](https://img.shields.io/badge/Aviatrix-Multicloud%20Network%20Associate-00A9E0?style=flat&logo=aviatrix&logoColor=ffffff)
+
+- 🎓 **DataCamp Certified**: SQL Associate  
+  ![DataCamp SQL Associate](https://img.shields.io/badge/DataCamp-SQL%20Associate-00A9E0?style=flat&logo=datacamp&logoColor=ffffff)
+
 
 ---
 
