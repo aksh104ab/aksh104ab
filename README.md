@@ -5,7 +5,7 @@ A **Tech enthusiast** with a passion for exploring and mastering new technologie
 
 ---
 
-#### 💻 **Skills & Technologies I Work With : **
+#### 💻 Skills & Technologies I Work With : 
 
 
  ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=ffffff)  
@@ -17,7 +17,7 @@ A **Tech enthusiast** with a passion for exploring and mastering new technologie
 
 ---
 
-#### 🎓 **My Certifications : **
+#### 🎓 My Certifications : 
 
 **HashiCorp Certified**: Terraform Associate  
   ![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7E34C5?style=flat&logo=terraform&logoColor=ffffff)
@@ -34,7 +34,7 @@ A **Tech enthusiast** with a passion for exploring and mastering new technologie
 
 ---
 
-#### 📚 **Articles & Blog Posts : **
+#### 📚 Articles & Blog Posts : 
 
 I love sharing my knowledge through writing! Here are some articles I’ve written during my internship with **GeeksforGeeks**:  
 🔗 [Akshay's Articles on GeeksforGeeks](https://www.geeksforgeeks.org/user/akshaybotre203/contributions/)
