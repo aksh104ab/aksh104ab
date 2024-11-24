@@ -17,9 +17,10 @@ I’m constantly growing and expanding my skills to stay ahead in the tech world
 
 ---
 
-### 🎯 **My Expertise & Tech Stack**
+### 🛠 **Skills & Technologies I Work With**
 
-I'm all about **automation** and **cloud efficiency**, but I believe in creating simple, maintainable, and scalable solutions. 
+I focus on using **cloud solutions** and **automation** to build scalable, efficient systems. My expertise includes optimizing DevOps processes and streamlining workflows to help teams deliver software faster and more reliably.
+ 
 
  ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=ffffff)  
  ![Terraform](https://img.shields.io/badge/-Terraform-7E34C5?style=flat&logo=terraform&logoColor=ffffff)  ![ARM Templates](https://img.shields.io/badge/-ARM%20Templates-D92E3E?style=flat&logo=microsoft&logoColor=ffffff)  
