@@ -1,4 +1,4 @@
-### 👋 Hello! I'm Akshay ... 
+### 👨‍💻 Hello! I'm Akshay ... 
 
 A **Tech enthusiast** with a passion for exploring and mastering new technologies. With over **2+ years of IT experience**, I currently work as a **DevOps Engineer** where I focus on automating cloud infrastructure, streamlining CI/CD pipelines, and improving software delivery processes. I'm passionate about **cloud technologies**, **automation**, and **efficient workflows** that help teams deliver high-quality software with speed and reliability.
 
@@ -42,7 +42,7 @@ Read Articles here :
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-183153?style=flat&logo=geeksforgeeks&logoColor=ffffff)](https://www.geeksforgeeks.org/user/akshaybotre203/contributions/)
 
 ---
-#### 🌍 Let’s Connect !
+#### 📲 Let’s Connect !
 
 I’m always open to new opportunities, discussions, or collaborations. Feel free to reach out to me...
 
