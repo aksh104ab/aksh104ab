@@ -4,6 +4,19 @@ A **Tech enthusiast** with a passion for exploring and mastering new technologie
 
 ---
 
+### 📚 **Learning Day**  
+I’m constantly growing and expanding my skills to stay ahead in the tech world. Here's a snapshot of what I’m currently learning:
+
+- **Cloud Computing**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=ffffff), ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=ffffff)  
+- **Kubernetes**: ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff)  
+- **Containerization**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)  
+- **CI/CD**: ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=ffffff)  
+- **Security**: ![OWASP](https://img.shields.io/badge/-OWASP-7f4b4b?style=flat&logo=owasp&logoColor=ffffff)
+
+🔗 Track my progress and discoveries on my Kanban board: [**Learning Day Kanban Board**](https://github.com/users/aksh104ab/projects/2)
+
+---
+
 ### 🎯 **My Expertise & Tech Stack**
 
 I'm all about **automation** and **cloud efficiency**, but I believe in creating simple, maintainable, and scalable solutions. 
