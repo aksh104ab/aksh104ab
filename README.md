@@ -17,7 +17,7 @@ I’m constantly growing and expanding my skills to stay ahead in the tech world
 
 ---
 
-### 🛠 **Skills & Technologies I Work With**
+### ![Skills Image](https://img.icons8.com/ios/452/skills.png) **Skills & Technologies I Work With**
 
 I focus on using **cloud solutions** and **automation** to build scalable, efficient systems. My expertise includes optimizing DevOps processes and streamlining workflows to help teams deliver software faster and more reliably.
  
