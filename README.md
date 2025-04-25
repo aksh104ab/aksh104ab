@@ -28,7 +28,7 @@ You can view my *learning progress* and future learning plans by clicking below 
 **HashiCorp Certified**: Terraform Associate  
   ![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7E34C5?style=flat&logo=terraform&logoColor=ffffff)
   
-**Microsoft Certified**: Data Scientist Associate  
+**Microsoft Certified**: Data Scientist Associate(DP100)  
   ![Microsoft Data Scientist Associate](https://img.shields.io/badge/Microsoft-Data%20Scientist%20Associate-0078D4?style=flat&logo=microsoft&logoColor=ffffff)
 
 **Aviatrix Certified**: Multicloud Network Associate  
