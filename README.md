@@ -1,11 +1,6 @@
 ### 🙋‍♂️ Hello! I'm Akshay ... 
 
-A **Tech enthusiast** with a passion for exploring and mastering new technologies. With over **2+ years of IT experience**, I currently work as a **Cloud DevOps Engineer** where I focus on automating cloud infrastructure, streamlining CI/CD pipelines, and improving software delivery processes. I'm passionate about **cloud technologies**, **automation**, and **efficient workflows** that help teams deliver high-quality software with speed and reliability.
-
-I’m currently learning **Azure Kubernetes and Docker** 
-You can view my *learning progress* and future learning plans by clicking below : 
-
-[![View-My-Learning](https://img.shields.io/badge/View%20My%20Learning%20Progress-0A0A0A?style=flat&logo=github&logoColor=ffffff)](https://github.com/users/aksh104ab/projects/2)
+AI-Focused Cloud DevOps and Site Reliability Engineer with 3+ years of experience in Azure DevOps, Cloud Automation, CI/CD, Infrastructure as Code, and AI-driven operations. Skilled in Azure Services, Terraform, Docker, Kubernetes, Octopus Deploy, PowerShell, and Python with hands-on experience in GenAI solutions including RAG-based knowledge systems, AI insights generation from historical ticket data, and Agentic AI-driven end-to-end ticket resolution automation using Accenture ATR. Experienced in data analytics, automation, and intelligent operations to reduce manual effort, optimize workflows, and improve system reliability. Strong collaborator with development, change, and problem management teams, focused on building scalable cloud and AI-enabled solutions
 
 
 ---
