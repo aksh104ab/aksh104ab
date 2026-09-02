@@ -92,15 +92,7 @@ AI-Focused Cloud DevOps and Site Reliability Engineer with 3+ years of experienc
 
 ---
 
-#### 📚 Articles & Blog Posts : 
 
-I love sharing my knowledge through writing! Here are some articles I’ve written during my internship with - GFG.
-
-Read Articles here : 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2D9C1A?style=flat&logo=geeksforgeeks&logoColor=ffffff)](https://www.geeksforgeeks.org/user/akshaybotre203/contributions/)
-
-
----
 #### 📲 Let’s Connect !
 
 I’m always open to new opportunities, discussions, or collaborations. Feel free to reach out to me...
